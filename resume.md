@@ -1,7 +1,7 @@
 # Zoe Long
 - Email: zoe_long@mines.edu
 - Location: Lakewood, CO
-- LinkedIn: ![LinkedIn](https://linkedin.com/in/z-long)
+- LinkedIn: [LinkedIn](https://linkedin.com/in/z-long)
 
 ## Education
 - BS Geophysics, Colorado School of Mines (2027)
