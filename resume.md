@@ -5,3 +5,5 @@
 ## Education
 - BS Geophysics, Colorado School of Mines (2027)
 - AS, Front Range Community College (2020)
+
+## Work Experience
