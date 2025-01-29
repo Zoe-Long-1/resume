@@ -1,5 +1,4 @@
 # Zoe Long
-![Hello]("C:\Users\zlong\OneDrive\Pictures\Profile pic2.jpg")
 - Email: zoe_long@mines.edu
 - Location: Lakewood, CO
 - [LinkedIn](https://linkedin.com/in/z-long)
@@ -14,4 +13,9 @@
 - Radiochemistry Prep Technician, ALS Global (Jun 2021-Apr 2022)
 
 ## Skills
--
+- Microsoft Office
+- Team management and training
+- Revising and drafting SOPs
+- QA/QC
+- Cleanroom etiquette and gowning
+- cGMPs, safe laboratory practices
