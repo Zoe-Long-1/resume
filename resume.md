@@ -1,4 +1,5 @@
 # Zoe Long
+![image](https://media.licdn.com/dms/image/v2/D5603AQFDT2ZxR9s1Xg/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1695611739362?e=1743638400&v=beta&t=RIFKnTUyRj0FZlRwImFDQKCqgsRpedf8LY7mRlE0H8k)
 - Email: zoe_long@mines.edu
 - Location: Lakewood, CO
 - [LinkedIn](https://linkedin.com/in/z-long)
