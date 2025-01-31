@@ -9,9 +9,9 @@
 - AS, Front Range Community College (2020)
 
 ## Experience
-- Cleanroom Operator, Aktiv Pharma (Nov 2022-Jul 2023)
-- Radiochemistry Analyst, ALS Global (Apr 2022-Oct 2022)
-- Radiochemistry Prep Technician, ALS Global (Jun 2021-Apr 2022)
+- **Cleanroom Operator**, Aktiv Pharma (Nov 2022-Jul 2023)
+- **Radiochemistry Analyst**, ALS Global (Apr 2022-Oct 2022)
+- **Radiochemistry Prep Technician**, ALS Global (Jun 2021-Apr 2022)
 
 ## Skills
 - Microsoft Office
